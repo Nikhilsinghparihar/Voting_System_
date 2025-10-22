@@ -1,0 +1,25 @@
+Metadata-Version: 2.3
+Name: transit-service-analyst
+Version: 0.1.5
+Summary: Tools to support transit service analysis.
+License: MIT
+Author: stefancoe
+Author-email: coestefan@gmail.com
+Requires-Python: >=3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3.13
+Requires-Dist: geopandas (>=1.0.1)
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: pandera
+Requires-Dist: pyyaml
+Description-Content-Type: text/markdown
+
+# transit_service_analyst
+Tools to support transit service analysis. Full docmentation here:
+https://github.com/psrc/transit_service_analyst/wiki/transit_service_analyst-documentation
+
+
